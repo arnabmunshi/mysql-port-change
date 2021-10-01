@@ -12,7 +12,7 @@ Now, in Xampp, click on "config" in the MySQL row (click on MySQL's "config"), a
 `port = 3308`
 
 Also, change the port to `3308` on line 28 of my.ini file, like this:
-# The MySQL server
+###### The MySQL server
 
 [mysqld]
 
